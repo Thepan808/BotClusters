@@ -1,6 +1,6 @@
 {   
     "bot1": {
-        "source": "repo_link",
+        "source": "https://github.com/Thepan808/chatgpt-bot",
         "branch": "master",
         "env": {
             "TOKEN": ""
